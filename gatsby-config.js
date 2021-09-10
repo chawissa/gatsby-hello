@@ -20,5 +20,6 @@ module.exports = {
     title: "Charissa D. Ramirez",
     description: "Front End Developer Portfolio",
     copyright: "This website is copyright 2021 Charissa D. Ramirez",
+    contact: "chawissa@gmail.com",
   },
 }
