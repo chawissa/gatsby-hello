@@ -1,4 +1,5 @@
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 import React from "react"
 import Layout from "../components/Layout"
 import * as styles from "../styles/home.module.css"
@@ -15,7 +16,7 @@ export default function Home() {
             Projects
           </Link>
         </div>
-        <img src="/banner.png" alt="site banner" style={{ maxWidth: "100%" }} />
+        <StaticImage src="../images/banner.png" alt="site banner" />
       </section>
     </Layout>
   )
