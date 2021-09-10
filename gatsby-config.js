@@ -8,8 +8,8 @@ module.exports = {
   /* Your site config here */
   plugins: [],
   siteMetadata: {
-    title: "Charissa Ramirez",
-    description: "portfolio",
+    title: "Charissa D. Ramirez",
+    description: "Front End Developer Portfolio",
     copyright: "This website is copyright 2021 Charissa D. Ramirez",
   },
 }
