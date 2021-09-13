@@ -10,13 +10,13 @@ export default function ProjectDetails() {
         <h2>title</h2>
         <h3>stack</h3>
         <div className={styles.featured}>
-        {/* <GatsbyImage
+          {/* <GatsbyImage
                   image={getImage(
                   )}
                   alt="Banner"
-                />
+                /> */}
         </div>
-        <div className={styles.html} dangerouslySetInnerHTML={} /> */}
+        {/* <div className={styles.html} dangerouslySetInnerHTML={} /> */}
       </div>
     </Layout>
   )
